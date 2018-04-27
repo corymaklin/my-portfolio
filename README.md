@@ -1,2 +1,2 @@
-# my-portfolio
-This is my professional portfolio
+# Cory Maklin's portfolio site
+Created using AWS and React
